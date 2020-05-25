@@ -1,7 +1,7 @@
 # podcasts
 Podcasts and things related to podcasts
 
-BBC Podcast directory: http://www.bbc.co.uk/podcasts.opml
+BBC Podcast directory: https://www.bbc.co.uk/podcasts.opml
 
 Top 100 Apple Podcasts (UK): https://rss.itunes.apple.com/api/v1/gb/podcasts/top-podcasts/all/100/explicit.json
 
